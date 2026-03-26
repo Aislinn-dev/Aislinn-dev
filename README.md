@@ -2,7 +2,7 @@
 
 ### Software Developer | React Native | Python | Firebase | SQL | NOSQL
 
-Desarrolladora apasionada por crear soluciones tecnológicas funcionales y escalables. Me especializo en el desarrollo de **aplicaciones móviles para Android** y sistemas de **procesamiento de datos con Python**.
+Desarrolladora apasionada por crear soluciones tecnológicas funcionales y escalables. Me especializo en el desarrollo de **aplicaciones móviles para Android** y sistemas de **procesamiento de datos con Python**. Mi enfoque freelance se centra en entregas rápidas, comunicación transparente y código de alta calidad.
 
 ---
 
