@@ -32,7 +32,7 @@ Desarrolladora apasionada por crear soluciones tecnológicas funcionales y escal
 
  **¿Tienes un proyecto en mente?** Hablemos: [aispra003@gmail.com](mailto:aispra003@gmail.com)
  
- **Portafolio con Video Demos:** https://carrd.co/dashboard/5547177450658021/build
+ **Portafolio con Video Demos:** https://aislinn-dev.carrd.co/  
 
 ---
 ### ⚡ Datos curiosos
