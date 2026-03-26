@@ -21,7 +21,7 @@ Desarrolladora apasionada por crear soluciones tecnológicas funcionales y escal
 - **Lenguajes:** Python (Data & Backend), JavaScript/TypeScript (Mobile), Java.
 - **Mobile:** React Native, Expo, Integración de hardware (GPS, Cámara, Sensores).
 - **Cloud & DB:** Firebase (Auth, Firestore, Storage), SQL (MySQL, MariaDB, Oracle),NOSQL(Mongodb).
-- **Especialidades:** Realidad Aumentada (Unity), Procesamiento de señales (FFT), Machine Learning básico (PyTorch).
+- **Otros:** Realidad Aumentada (Unity), Procesamiento de señales (FFT), Machine Learning básico (PyTorch).
 
 ---
 
